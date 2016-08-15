@@ -1,0 +1,30 @@
+{
+  "name": "gridme",
+  "version": "0.0.1",
+  "description": "A simple and configurable flexbox grid system for CSS in JS systems.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "babel --presets es2015 -d lib/ src/",
+    "prepublish": "npm run compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcarson/gridme.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "boilerplate"
+  ],
+  "author": "Andy Carson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcarson/gridme/issues"
+  },
+  "homepage": "https://github.com/arcarson/gridme#readme",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
