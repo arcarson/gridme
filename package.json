@@ -1,6 +1,6 @@
 {
   "name": "gridme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple and configurable flexbox grid system for CSS in JS systems.",
   "main": "lib/index.js",
   "scripts": {
