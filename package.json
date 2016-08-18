@@ -13,9 +13,12 @@
     "url": "git+https://github.com/arcarson/gridme.git"
   },
   "keywords": [
-    "npm",
-    "package",
-    "boilerplate"
+    "flexbox",
+    "grid",
+    "configure",
+    "configurable",
+    "CSS",
+    "JS"
   ],
   "author": "Andy Carson",
   "license": "ISC",
