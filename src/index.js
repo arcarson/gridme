@@ -24,7 +24,6 @@ export default function generateGrid(numberOfCols = 12, colSpacing = "1rem") {
     container: {
       display: "flex",
       marginLeft: `-${colSpacing}`,
-      width: "100%"
     }
   }
 
